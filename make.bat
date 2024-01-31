@@ -1,0 +1,1 @@
+pyinstaller trans_enc.py --onefile --icon=icon.ico
